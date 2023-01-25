@@ -1,2 +1,2 @@
-# C-plus-plus
-C++ stuff 
+### C-plus-plus
+# C++ stuff made in school all by myself  
